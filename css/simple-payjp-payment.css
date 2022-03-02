@@ -1,0 +1,8 @@
+input#simplepayjppayment-mail,
+input#simplepayjppayment-name {
+  margin: 1rem 0;
+}
+
+.messageBox[aria-hidden=true] {
+  display: none;
+}
