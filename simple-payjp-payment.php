@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: Simple PAY.JP Payment
-Plugin URI: https://it-soudan.com/simple-payjp-payment/
+Plugin Name: Social Project Donation with PAY.JP
+Plugin URI: https://github.com/Code4Saitama/simple-pay-jp-payment
 Description: Add payment by PAY.JP
 Version: 1.2.0
-Author: koyacode
-Author URI: https://it-soudan.com/
-Text Domain: simple-payjp-payment
+Author: NPO-toiro-commune-designing
+Author URI: https://github.com/NPO-toiro-commune-designing
+Text Domain: social-project-donation-with-payjp
 Domain Path: /languages
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

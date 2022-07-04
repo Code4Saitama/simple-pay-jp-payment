@@ -343,6 +343,6 @@ function debug_log($str) {
   $log = "[" . date("Y/M/d H:m:i") . "]";
   $log .= $str;
   $log .= "\n\n";
-  file_put_contents("/var/www/wordpress/wp-content/plugins/simple-pay-jp-payment/debug.log",
+  file_put_contents("/var/www/wordpress/wp-content/plugins/social-project-donation-with-payjp/debug.log",
   $log, FILE_APPEND);
 }
